@@ -7,4 +7,4 @@
 
 ## Special Thanks 
 My special thanks to 
-<a href = "https://www.youtube.com/watch?v=08a3PikBSl8"> Neural Line </a>.
+<a href = "https://www.youtube.com/watch?v=08a3PikBSl8"> NeuralNine </a>.
